@@ -1,4 +1,4 @@
-package com.aube.ssmemo.ui.theme
+package com.aube.ssmemo.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

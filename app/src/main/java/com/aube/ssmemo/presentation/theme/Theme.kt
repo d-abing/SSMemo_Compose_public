@@ -1,4 +1,4 @@
-package com.aube.ssmemo.ui.theme
+package com.aube.ssmemo.presentation.theme
 
 import android.app.Activity
 import android.os.Build
